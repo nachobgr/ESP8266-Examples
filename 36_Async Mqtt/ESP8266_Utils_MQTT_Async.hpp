@@ -1,4 +1,4 @@
-#pragma once
+#pragma once	//el programa corre el codigo una sola vez
 
 TimerHandle_t mqttReconnectTimer;
 TimerHandle_t wifiReconnectTimer;
